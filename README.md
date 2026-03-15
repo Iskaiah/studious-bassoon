@@ -1,2 +1,2 @@
 # studious-bassoon
-This is based on fleet management system
+This is a practice for creating react project
