@@ -1,2 +1,2 @@
 # studious-bassoon
-Create Practice Project on React
+This is a practice for creating react project
